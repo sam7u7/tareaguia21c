@@ -1,0 +1,15 @@
+.header{
+    background-image: url(../img/creamheader.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.giga1{
+    width: 175px;
+}
+.giga2{
+    width: 500px;
+}
+.centrado{
+    width: 800px;
+    margin: 0px auto;
+}
